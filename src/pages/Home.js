@@ -44,7 +44,7 @@ const Home = () => {
       </section>
       <footer className="container-fluid navbar bg-black navbar-dark">
         <div className="m-2">
-          <p className="col-6 navbar-brand ">Technical Solutions Manager</p>
+          <p className="col-6 navbar-brand ">Technical Solutions Manager.</p>
         </div>
 
         <a
