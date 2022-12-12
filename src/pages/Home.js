@@ -5,9 +5,7 @@ const Home = () => {
     <div className="d-flex flex-column justify-content-between vh-100">
       <header className="container-fluid navbar bg-primary navbar-dark">
         <div className="m-2">
-          <a href="#" className="col-6 navbar-brand">
-            GTM TEST
-          </a>
+          <p className="col-6 navbar-brand">GTM TEST</p>
         </div>
         <a
           target="_blanck"
@@ -46,9 +44,7 @@ const Home = () => {
       </section>
       <footer className="container-fluid navbar bg-black navbar-dark">
         <div className="m-2">
-          <a href="#" className="col-6 navbar-brand ">
-            Technical Solutions Manager
-          </a>
+          <p className="col-6 navbar-brand ">Technical Solutions Manager</p>
         </div>
 
         <a
